@@ -1,4 +1,4 @@
-# SQL_LOGISTICS- STUDING LOGISTICS OF A COMPANY TO IMPROVE ITS EFFICIENCY IN REVENUE AND PERFORMANCE
+# LOGISTICS OF A COMPANY TO IMPROVE ITS EFFICIENCY IN REVENUE AND PERFORMANCE
 
 Logistics is the support function of an organization and it means having the right object, at the right place, in the right time. Logistics deals with various kinds 
 of methods to control the flow of resources from one place to another. One of the major and important factors that is costing is being dealt with utmost attention. 
@@ -8,10 +8,7 @@ is that in RDBMS, the entities and values in tables are related to one another. 
  
 PROBLEM DESCRIPTION
 The logistics company provides services in both the international and domestic sectors. The logistics management takes into consideration every facility that has an 
-impact on  cost. It plays an important role in making the product confirm to customer requirements. Also, it involves efficient integration of suppliers, manufacturers, 
-Import & export and other activities at many levels; from the strategic level through the tactical to the operational level. Customers can send different types of 
-shipping contents. Payment is to be done at the same time the product is delivered to the client. Delivery boy and centre head can update the status of the shipment. 
-Create a database schema and table relationships that can be used in any technology.
+impact on  cost. It plays an important role in making the product confirm to customer requirements. Also, it involves efficient integration of suppliers, manufacturers, import & export and other activities at many levels; from the strategic level through the tactical to the operational level. Customers can send different types of shipping contents. Payment is to be done at the same time the product is delivered to the client. Delivery boy and centre head can update the status of the shipment. Create a database schema and table relationships that can be used in any technology.
 
 SCOPE
 It is of critical importance to the organization how it delivers products & services to the customer, whether the product is tangible or intangible. Effective and 
